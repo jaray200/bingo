@@ -1,7 +1,5 @@
 # Bingo Board Maker
-This is the code for the Bingo Board Maker (bingoboardmaker.com)
-
-Use this to make a 5x5 bingo board.
+This is the code for the [Bingo Board Maker](bingoboardmaker.com) (coming soon). It generates a 5x5 bingo board filled with text from options.js. 
 
 #### Some Cool Stuff
 - Printer-friendly: I use @media css settings to control what is printed. The board is printed without breaking the page, along with attribution text under it. The title image and the redo/print buttons below are hidden when printed. 
